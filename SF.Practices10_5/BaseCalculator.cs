@@ -1,6 +1,4 @@
 ﻿using System;
-//using System.Collections.Generic;
-//using System.Text;
 
 namespace SF.Practices10_5
 {/// <summary>
